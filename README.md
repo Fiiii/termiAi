@@ -20,4 +20,4 @@ fiai
 ```
 
 ---
-![demo](https://github.com/fiiii/termiAi/assets/demo.gif)
+![demo](https://github.com/Fiiii/termiAi/blob/main/assets/demo.gif)
